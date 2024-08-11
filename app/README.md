@@ -1,16 +1,7 @@
-# app
+# Accessible Bathroom
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This application is a directory for Accesible Bathroom in Macquarie University.<br/>
+We have gathered by hand the data through observation around the campus.<br/>
+This app serves the purpose and accesible needs of many friends and peers who might have trouble<br/>
+with different categories like manual door or auto door, we create this app so they can check through their phone<br/>
+and immediately know right away which building and bathroom to go to.
