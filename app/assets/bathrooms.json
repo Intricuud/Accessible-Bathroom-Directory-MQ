@@ -1,0 +1,658 @@
+{
+    "4 Research Park Drive": [
+        {
+            "Building": "4 Research Park Drive",
+            "Level": "G",
+            "Manual/Auto": "Auto",
+            "Grab Bar": "Yes",
+            "Paper Towel/Air Dryer": "Both",
+            "Shower": "No",
+            "Notes": "It has baby change station.",
+            "id": "d36a3afd-0044-44d2-b5d2-c160cb9bab84"
+        },
+        {
+            "Building": "4 Research Park Drive",
+            "Level": "L1",
+            "Manual/Auto": "Auto",
+            "Grab Bar": "Yes",
+            "Paper Towel/Air Dryer": "Paper towel",
+            "Shower": "No",
+            "Notes": "N/A",
+            "id": "e5dfae72-2e67-4d32-bafb-ed89aa075421"
+        },
+        {
+            "Building": "4 Research Park Drive",
+            "Level": "L2",
+            "Manual/Auto": "N/A",
+            "Grab Bar": "N/A",
+            "Paper Towel/Air Dryer": "N/A",
+            "Shower": "N/A",
+            "Notes": "Only for staff",
+            "id": "cbb44af2-a672-44e1-87b5-f739c01af8b8"
+        },
+        {
+            "Building": "4 Research Park Drive",
+            "Level": "L3",
+            "Manual/Auto": "N/A",
+            "Grab Bar": "N/A",
+            "Paper Towel/Air Dryer": "N/A",
+            "Shower": "N/A",
+            "Notes": "Only for staff",
+            "id": "cfeca412-8d58-4b1d-b599-c1ae1808dc10"
+        }
+    ],
+    "4 Eastern Road": [
+        {
+            "Building": "4 Eastern Road",
+            "Level": "L2",
+            "Manual/Auto": "Auto",
+            "Grab Bar": "Yes",
+            "Paper Towel/Air Dryer": "Both",
+            "Shower": "No",
+            "Notes": "Advanced and cool grab bar like in starwars",
+            "id": "daecfab9-af56-4c44-912e-6fd930d6550c"
+        },
+        {
+            "Building": "4 Eastern Road",
+            "Level": "L3",
+            "Manual/Auto": "Auto",
+            "Grab Bar": "Yes",
+            "Paper Towel/Air Dryer": "Both",
+            "Shower": "No",
+            "Notes": "N/A",
+            "id": "d89b98fe-39f8-4f59-91af-44768c78faf1"
+        },
+        {
+            "Building": "4 Eastern Road",
+            "Level": "L4",
+            "Manual/Auto": "Auto",
+            "Grab Bar": "Yes",
+            "Paper Towel/Air Dryer": "Both",
+            "Shower": "No",
+            "Notes": "N/A",
+            "id": "35be6d26-8310-4fab-852b-7f284bbe875f"
+        },
+        {
+            "Building": "4 Eastern Road",
+            "Level": "L5",
+            "Manual/Auto": "Auto",
+            "Grab Bar": "Yes",
+            "Paper Towel/Air Dryer": "Both",
+            "Shower": "No",
+            "Notes": "N/A",
+            "id": "b90c79e7-5e47-4dff-850a-dc9ef9e16ea0"
+        },
+        {
+            "Building": "4 Eastern Road",
+            "Level": "L6",
+            "Manual/Auto": "Auto",
+            "Grab Bar": "Yes",
+            "Paper Towel/Air Dryer": "Both",
+            "Shower": "No",
+            "Notes": "N/A",
+            "id": "64f82768-abcf-400e-82fe-49e1c748b480"
+        },
+        {
+            "Building": "4 Eastern Road",
+            "Level": "L7",
+            "Manual/Auto": "Auto",
+            "Grab Bar": "Yes",
+            "Paper Towel/Air Dryer": "Both",
+            "Shower": "No",
+            "Notes": "N/A",
+            "id": "151a6e80-6e86-468c-bc29-1ba18186f6ae"
+        }
+    ],
+    "6 Eastern Road": [
+        {
+            "Building": "6 Eastern Road",
+            "Level": "G",
+            "Manual/Auto": "Auto",
+            "Grab Bar": "Yes",
+            "Paper Towel/Air Dryer": "Air dryer",
+            "Shower": "Yes",
+            "Notes": "N/A",
+            "id": "6120a339-581e-47e9-b679-b913ebde4053"
+        },
+        {
+            "Building": "6 Eastern Road",
+            "Level": "L1",
+            "Manual/Auto": "Auto",
+            "Grab Bar": "Yes",
+            "Paper Towel/Air Dryer": "Manual air dryer",
+            "Shower": "Yes",
+            "Notes": "N/A",
+            "id": "c30decfe-c8fa-4079-bf5c-8f4a53451dbf"
+        }
+    ],
+    "8 Sir Christopher Ondaatje": [
+        {
+            "Building": "8 Sir Christopher Ondaatje",
+            "Level": "G",
+            "Manual/Auto": "Auto",
+            "Grab Bar": "Yes",
+            "Paper Towel/Air Dryer": "Air dryer",
+            "Shower": "No",
+            "Notes": "It has baby change station.",
+            "id": "a7407b27-e327-414c-911c-9f91dd960c90"
+        },
+        {
+            "Building": "8 Sir Christopher Ondaatje",
+            "Level": "L1",
+            "Manual/Auto": "Auto",
+            "Grab Bar": "Yes",
+            "Paper Towel/Air Dryer": "Manual air dryer",
+            "Shower": "No",
+            "Notes": "N/A",
+            "id": "ed73e5fc-f5fc-4bd0-b38b-b1903c2f6a58"
+        }
+    ],
+    "12 Second Way": [
+        {
+            "Building": "12 Second Way",
+            "Level": "L2",
+            "Manual/Auto": "Manual",
+            "Grab Bar": "Yes",
+            "Paper Towel/Air Dryer": "Paper towel",
+            "Shower": "No",
+            "Notes": "N/A",
+            "id": "0596a5ae-bde6-415b-9d63-582e19e0aa92"
+        }
+    ],
+    "11 Wally's Walk": [
+        {
+            "Building": "11 Wally's Walk",
+            "Level": "G",
+            "Manual/Auto": "N/A",
+            "Grab Bar": "N/A",
+            "Paper Towel/Air Dryer": "N/A",
+            "Shower": "N/A",
+            "Notes": "Out of order",
+            "id": "1f6c6558-f4ff-4940-863f-37cb7428aaab"
+        },
+        {
+            "Building": "11 Wally's Walk",
+            "Level": "L1",
+            "Manual/Auto": "Auto",
+            "Grab Bar": "Yes",
+            "Paper Towel/Air Dryer": "Air dryer",
+            "Shower": "No",
+            "Notes": "N/A",
+            "id": "54ba793e-73fa-4cba-a23a-0bcb41886d72"
+        },
+        {
+            "Building": "11 Wally's Walk",
+            "Level": "L2",
+            "Manual/Auto": "Auto",
+            "Grab Bar": "Yes",
+            "Paper Towel/Air Dryer": "Air dryer",
+            "Shower": "No",
+            "Notes": "N/A",
+            "id": "19ebc69d-e3ac-4cae-8b65-e0dfbb85d5b3"
+        }
+    ],
+    "12 Wally's Walk": [
+        {
+            "Building": "12 Wally's Walk",
+            "Level": "G",
+            "Manual/Auto": "Manual",
+            "Grab Bar": "Yes",
+            "Paper Towel/Air Dryer": "Paper towel",
+            "Shower": "Yes",
+            "Notes": "N/A",
+            "id": "98757dcb-c067-41d6-90b2-2dd65bf0742e"
+        },
+        {
+            "Building": "12 Wally's Walk",
+            "Level": "L1",
+            "Manual/Auto": "Manual",
+            "Grab Bar": "Yes",
+            "Paper Towel/Air Dryer": "Paper towel",
+            "Shower": "No",
+            "Notes": "N/A",
+            "id": "2eda586b-d449-42c4-bfb0-7ed6ec20325a"
+        },
+        {
+            "Building": "12 Wally's Walk",
+            "Level": "L2",
+            "Manual/Auto": "Manual",
+            "Grab Bar": "Yes",
+            "Paper Towel/Air Dryer": "Paper towel",
+            "Shower": "No",
+            "Notes": "N/A",
+            "id": "5b18e1b3-7775-4db5-962a-b357c668c600"
+        },
+        {
+            "Building": "12 Wally's Walk",
+            "Level": "L3",
+            "Manual/Auto": "Manual",
+            "Grab Bar": "Yes",
+            "Paper Towel/Air Dryer": "Paper towel",
+            "Shower": "No",
+            "Notes": "N/A",
+            "id": "076ff41e-9e99-4787-a8a8-6e8303831bf4"
+        },
+        {
+            "Building": "12 Wally's Walk",
+            "Level": "L4",
+            "Manual/Auto": "Manual",
+            "Grab Bar": "Yes",
+            "Paper Towel/Air Dryer": "Paper towel",
+            "Shower": "No",
+            "Notes": "N/A",
+            "id": "1abf1e92-d4d2-491f-b2b0-29e0c9a20236"
+        },
+        {
+            "Building": "12 Wally's Walk",
+            "Level": "L5",
+            "Manual/Auto": "Manual",
+            "Grab Bar": "Yes",
+            "Paper Towel/Air Dryer": "Paper towel",
+            "Shower": "No",
+            "Notes": "N/A",
+            "id": "8ab1ab1a-41f9-48eb-9e0f-e5c3da586bbf"
+        },
+        {
+            "Building": "12 Wally's Walk",
+            "Level": "L6",
+            "Manual/Auto": "Manual",
+            "Grab Bar": "Yes",
+            "Paper Towel/Air Dryer": "Paper towel",
+            "Shower": "No",
+            "Notes": "N/A",
+            "id": "b9cf4777-e702-4bf5-bf67-173d110be147"
+        },
+        {
+            "Building": "12 Wally's Walk",
+            "Level": "L7",
+            "Manual/Auto": "Manual",
+            "Grab Bar": "Yes",
+            "Paper Towel/Air Dryer": "Paper towel",
+            "Shower": "No",
+            "Notes": "N/A",
+            "id": "d1d09a78-b047-4685-8a9d-29bdf40e4a15"
+        },
+        {
+            "Building": "12 Wally's Walk",
+            "Level": "L8",
+            "Manual/Auto": "Manual",
+            "Grab Bar": "Yes",
+            "Paper Towel/Air Dryer": "Paper towel",
+            "Shower": "No",
+            "Notes": "N/A",
+            "id": "9f3173d6-8f62-48b4-a95b-e276185c6aba"
+        }
+    ],
+    "17 Wally's Walk": [
+        {
+            "Building": "17 Wally's Walk",
+            "Level": "G",
+            "Manual/Auto": "Auto",
+            "Grab Bar": "Yes",
+            "Paper Towel/Air Dryer": "Air dryer",
+            "Shower": "No",
+            "Notes": "It has baby change station.",
+            "id": "638b826b-df9c-48fe-9007-b6c9d7e38b59"
+        },
+        {
+            "Building": "17 Wally's Walk",
+            "Level": "L1",
+            "Manual/Auto": "Auto",
+            "Grab Bar": "Yes",
+            "Paper Towel/Air Dryer": "Air dryer",
+            "Shower": "No",
+            "Notes": "N/A",
+            "id": "f0f76c32-6fd1-47cc-be59-92ce73455f6b"
+        },
+        {
+            "Building": "17 Wally's Walk",
+            "Level": "L2",
+            "Manual/Auto": "Auto",
+            "Grab Bar": "Yes",
+            "Paper Towel/Air Dryer": "Air dryer",
+            "Shower": "No",
+            "Notes": "N/A",
+            "id": "d4c88d5d-3641-4082-af0a-265db99a5eef"
+        },
+        {
+            "Building": "17 Wally's Walk",
+            "Level": "L3",
+            "Manual/Auto": "Auto",
+            "Grab Bar": "Yes",
+            "Paper Towel/Air Dryer": "Air dryer",
+            "Shower": "No",
+            "Notes": "N/A",
+            "id": "d41c16da-eb0b-4408-b305-71fb0993cddb"
+        }
+    ],
+    "18 Wally's Walk": [
+        {
+            "Building": "18 Wally's Walk",
+            "Level": "LG",
+            "Manual/Auto": "N/A",
+            "Grab Bar": "N/A",
+            "Paper Towel/Air Dryer": "N/A",
+            "Shower": "N/A",
+            "Notes": "Only for staff",
+            "id": "c976d4e2-c46d-4e04-af0a-7329c5366763"
+        },
+        {
+            "Building": "18 Wally's Walk",
+            "Level": "G",
+            "Manual/Auto": "Auto",
+            "Grab Bar": "Yes",
+            "Paper Towel/Air Dryer": "Both",
+            "Shower": "No",
+            "Notes": "N/A",
+            "id": "cdabb6ba-62a5-4c57-a1ee-322173d5ad17"
+        },
+        {
+            "Building": "18 Wally's Walk",
+            "Level": "L1",
+            "Manual/Auto": "N/A",
+            "Grab Bar": "N/A",
+            "Paper Towel/Air Dryer": "N/A",
+            "Shower": "N/A",
+            "Notes": "Only for staff",
+            "id": "927bd712-f9db-4ebe-8b1c-ebb1b9ed2abc"
+        }
+    ],
+    "21 Wally's Walk": [
+        {
+            "Building": "21 Wally's Walk",
+            "Level": "L1",
+            "Manual/Auto": "Manual",
+            "Grab Bar": "Yes",
+            "Paper Towel/Air Dryer": "Paper towel",
+            "Shower": "Yes",
+            "Notes": "Paper towel dispenser is empty.",
+            "id": "c1a7a133-7e36-4b00-b255-b7134b361ca3"
+        }
+    ],
+    "23 Wally's Walk": [
+        {
+            "Building": "23 Wally's Walk",
+            "Level": "L2",
+            "Manual/Auto": "Auto",
+            "Grab Bar": "Yes",
+            "Paper Towel/Air Dryer": "Manual air dryer",
+            "Shower": "No",
+            "Notes": "Manual air dryer, push to operate.",
+            "id": "8b57e23d-6700-46fb-a9bd-835f2421a69d"
+        }
+    ],
+    "25A Wally's Walk": [
+        {
+            "Building": "25A Wally's Walk",
+            "Level": "G",
+            "Manual/Auto": "N/A",
+            "Grab Bar": "N/A",
+            "Paper Towel/Air Dryer": "N/A",
+            "Shower": "N/A",
+            "Notes": "It's locked, need a key to use.",
+            "id": "9824227d-dda0-433f-b5f3-67056aa401ac"
+        }
+    ],
+    "25B Wally's Walk": [
+        {
+            "Building": "25B Wally's Walk",
+            "Level": "G",
+            "Manual/Auto": "Manual",
+            "Grab Bar": "Yes",
+            "Paper Towel/Air Dryer": "Air dryer",
+            "Shower": "No",
+            "Notes": "There's an elevator specifically designed for wheelchairs right beside the toilet.",
+            "id": "7f9ecfda-4690-4091-a752-31b208a1d775"
+        },
+        {
+            "Building": "25B Wally's Walk",
+            "Level": "L1",
+            "Manual/Auto": "Manual",
+            "Grab Bar": "Yes",
+            "Paper Towel/Air Dryer": "Air dryer",
+            "Shower": "No",
+            "Notes": "N/A",
+            "id": "55f7feaa-b522-438e-b61a-8b192b230fde"
+        },
+        {
+            "Building": "25B Wally's Walk",
+            "Level": "L2",
+            "Manual/Auto": "Manual",
+            "Grab Bar": "Yes",
+            "Paper Towel/Air Dryer": "Air dryer",
+            "Shower": "No",
+            "Notes": "N/A",
+            "id": "7c5c3850-b837-48b2-af47-4635c717e5f7"
+        },
+        {
+            "Building": "25B Wally's Walk",
+            "Level": "L3",
+            "Manual/Auto": "Manual",
+            "Grab Bar": "Yes",
+            "Paper Towel/Air Dryer": "Air dryer",
+            "Shower": "No",
+            "Notes": "N/A",
+            "id": "1d6bf5ef-e3b6-49c1-b2b3-e3629fefd036"
+        },
+        {
+            "Building": "25B Wally's Walk",
+            "Level": "L4",
+            "Manual/Auto": "Manual",
+            "Grab Bar": "Yes",
+            "Paper Towel/Air Dryer": "Air dryer",
+            "Shower": "No",
+            "Notes": "N/A",
+            "id": "447505ed-6f45-4612-9f4a-ee3f0f115a08"
+        },
+        {
+            "Building": "25B Wally's Walk",
+            "Level": "L5",
+            "Manual/Auto": "Manual",
+            "Grab Bar": "Yes",
+            "Paper Towel/Air Dryer": "Air dryer",
+            "Shower": "No",
+            "Notes": "N/A",
+            "id": "cf46db5e-76cd-4351-bd15-aa8c3a7f061c"
+        },
+        {
+            "Building": "25B Wally's Walk",
+            "Level": "L6",
+            "Manual/Auto": "Manual",
+            "Grab Bar": "Yes",
+            "Paper Towel/Air Dryer": "Air dryer",
+            "Shower": "No",
+            "Notes": "N/A",
+            "id": "5e591f97-f30a-492f-9fa8-f8aa9ff7ac6e"
+        },
+        {
+            "Building": "25B Wally's Walk",
+            "Level": "L7",
+            "Manual/Auto": "Manual",
+            "Grab Bar": "Yes",
+            "Paper Towel/Air Dryer": "Air dryer",
+            "Shower": "No",
+            "Notes": "N/A",
+            "id": "081657d1-6640-4619-a37f-ee0fd98f074d"
+        }
+    ],
+    "25C Wally's Walk": [
+        {
+            "Building": "25C Wally's Walk",
+            "Level": "G",
+            "Manual/Auto": "Manual",
+            "Grab Bar": "Yes",
+            "Paper Towel/Air Dryer": "Air dryer",
+            "Shower": "No",
+            "Notes": "N/A",
+            "id": "fed3ce7b-a284-4f81-b24b-849135ab2dc4"
+        },
+        {
+            "Building": "25C Wally's Walk",
+            "Level": "L1",
+            "Manual/Auto": "Manual",
+            "Grab Bar": "Yes",
+            "Paper Towel/Air Dryer": "Air dryer",
+            "Shower": "No",
+            "Notes": "N/A",
+            "id": "b027f804-25de-4a4d-8f99-51361a400be9"
+        },
+        {
+            "Building": "25C Wally's Walk",
+            "Level": "L2",
+            "Manual/Auto": "Manual",
+            "Grab Bar": "Yes",
+            "Paper Towel/Air Dryer": "Air dryer",
+            "Shower": "No",
+            "Notes": "N/A",
+            "id": "23b4a930-84bd-45b9-bf3a-5886ba609ca9"
+        },
+        {
+            "Building": "25C Wally's Walk",
+            "Level": "L3",
+            "Manual/Auto": "Manual",
+            "Grab Bar": "Yes",
+            "Paper Towel/Air Dryer": "Air dryer",
+            "Shower": "No",
+            "Notes": "N/A",
+            "id": "add3ff5a-6bcd-4034-bfb5-1151e44f2640"
+        }
+    ],
+    "27 Wally's Walk": [
+        {
+            "Building": "27 Wally's Walk",
+            "Level": "G",
+            "Manual/Auto": "Manual",
+            "Grab Bar": "Yes",
+            "Paper Towel/Air Dryer": "Air dryer",
+            "Shower": "No",
+            "Notes": "N/A",
+            "id": "8e0a5b48-b5eb-4791-bf8a-d6b37507962a"
+        }
+    ],
+    "29 Wally's Walk": [
+        {
+            "Building": "29 Wally's Walk",
+            "Level": "G",
+            "Manual/Auto": "Manual",
+            "Grab Bar": "Yes",
+            "Paper Towel/Air Dryer": "Both",
+            "Shower": "Yes",
+            "Notes": "The main door to the building in every level may be hard to open for wheelchair users. The elevator is shaky when it stops. It has a baby change station, there's no paper towel dispenser. Paper towels are put nearby the sink.",
+            "id": "026a0cb8-0ec1-4222-9e84-3e6dbb4e8175"
+        },
+        {
+            "Building": "29 Wally's Walk",
+            "Level": "L1",
+            "Manual/Auto": "Manual",
+            "Grab Bar": "Yes",
+            "Paper Towel/Air Dryer": "Air dryer",
+            "Shower": "No",
+            "Notes": "N/A",
+            "id": "76005a22-4b65-4453-8ddd-d9d34514c984"
+        },
+        {
+            "Building": "29 Wally's Walk",
+            "Level": "L2",
+            "Manual/Auto": "N/A",
+            "Grab Bar": "N/A",
+            "Paper Towel/Air Dryer": "N/A",
+            "Shower": "N/A",
+            "Notes": "Only for staff",
+            "id": "7278de17-6f33-4875-b8a6-5b9645bfa5a4"
+        },
+        {
+            "Building": "29 Wally's Walk",
+            "Level": "L3",
+            "Manual/Auto": "N/A",
+            "Grab Bar": "N/A",
+            "Paper Towel/Air Dryer": "N/A",
+            "Shower": "N/A",
+            "Notes": "The map shows it has toilets on L3 but there's no toilets in sight.",
+            "id": "e49c9349-0b9e-461f-949e-699f04d679ef"
+        }
+    ],
+    "Library": [
+        {
+            "Building": "Library",
+            "Level": "L1",
+            "Manual/Auto": "Auto",
+            "Grab Bar": "Yes",
+            "Paper Towel/Air Dryer": "Manual air dryer",
+            "Shower": "No",
+            "Notes": "The toilet paper dispenser is broken.",
+            "id": "d6079759-72cd-4ded-8fc6-deb7121edd6a"
+        },
+        {
+            "Building": "Library",
+            "Level": "L2",
+            "Manual/Auto": "Auto",
+            "Grab Bar": "Yes",
+            "Paper Towel/Air Dryer": "Air dryer",
+            "Shower": "No",
+            "Notes": "It has baby changing station.",
+            "id": "33e29e83-45c0-4926-9dd4-3212d62fbc2b"
+        },
+        {
+            "Building": "Library",
+            "Level": "L3",
+            "Manual/Auto": "Auto",
+            "Grab Bar": "Yes",
+            "Paper Towel/Air Dryer": "Air dryer",
+            "Shower": "No",
+            "Notes": "N/A",
+            "id": "00eebf54-0faf-4c27-a5ca-62863b615287"
+        },
+        {
+            "Building": "Library",
+            "Level": "L4",
+            "Manual/Auto": "Auto",
+            "Grab Bar": "Yes",
+            "Paper Towel/Air Dryer": "Air dryer",
+            "Shower": "No",
+            "Notes": "N/A",
+            "id": "6d5c81cd-48f9-4f6e-8ab2-b5f87f795a34"
+        },
+        {
+            "Building": "Library",
+            "Level": "L5",
+            "Manual/Auto": "Auto",
+            "Grab Bar": "Yes",
+            "Paper Towel/Air Dryer": "Air dryer",
+            "Shower": "No",
+            "Notes": "N/A",
+            "id": "28fdabfb-9efb-4628-869e-25853494516e"
+        }
+    ],
+    "1 Central Courtyard": [
+        {
+            "Building": "1 Central Courtyard",
+            "Level": "G",
+            "Manual/Auto": "Auto",
+            "Grab Bar": "Yes",
+            "Paper Towel/Air Dryer": "Both",
+            "Shower": "No",
+            "Notes": "N/A",
+            "id": "96e789b5-2710-4743-a442-c04e44943f56"
+        },
+        {
+            "Building": "1 Central Courtyard",
+            "Level": "L1",
+            "Manual/Auto": "Auto",
+            "Grab Bar": "Yes",
+            "Paper Towel/Air Dryer": "Air dryer",
+            "Shower": "No",
+            "Notes": "N/A",
+            "id": "ae056024-cbfb-4e4f-b81c-e040fabb3f9b"
+        },
+        {
+            "Building": "1 Central Courtyard",
+            "Level": "L2",
+            "Manual/Auto": "N/A",
+            "Grab Bar": "N/A",
+            "Paper Towel/Air Dryer": "N/A",
+            "Shower": "N/A",
+            "Notes": "Out of order",
+            "id": "c92d4d7f-3da3-48f1-9d15-cc4f2fe26eea"
+        }
+    ]
+}
